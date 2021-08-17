@@ -108,6 +108,7 @@ googleads.ad_manager.StatementBuilder._OrderByPair	googleads.ad_manager.Statemen
 googleads.ad_manager.StatementBuilder._OrderByPair.__repr__	googleads.ad_manager.StatementBuilder._OrderByPair-class.html#__repr__
 googleads.ad_manager.StatementBuilder._OrderByPair.__init__	googleads.ad_manager.StatementBuilder._OrderByPair-class.html#__init__
 googleads.ad_manager._AdManagerHeaderHandler	googleads.ad_manager._AdManagerHeaderHandler-class.html
+googleads.common.HeaderHandler.__metaclass__	googleads.common.HeaderHandler-class.html#__metaclass__
 googleads.ad_manager._AdManagerHeaderHandler._SOAP_HEADER_CLASS	googleads.ad_manager._AdManagerHeaderHandler-class.html#_SOAP_HEADER_CLASS
 googleads.ad_manager._AdManagerHeaderHandler.GetHTTPHeaders	googleads.ad_manager._AdManagerHeaderHandler-class.html#GetHTTPHeaders
 googleads.ad_manager._AdManagerHeaderHandler._PRODUCT_SIG	googleads.ad_manager._AdManagerHeaderHandler-class.html#_PRODUCT_SIG
@@ -235,6 +236,7 @@ googleads.adwords._QueryBuilder.Where	googleads.adwords._QueryBuilder-class.html
 googleads.adwords.ServiceQueryBuilder.Select	googleads.adwords.ServiceQueryBuilder-class.html#Select
 googleads.adwords._AdWordsHeaderHandler	googleads.adwords._AdWordsHeaderHandler-class.html
 googleads.adwords._AdWordsHeaderHandler._CONTENT_TYPE	googleads.adwords._AdWordsHeaderHandler-class.html#_CONTENT_TYPE
+googleads.common.HeaderHandler.__metaclass__	googleads.common.HeaderHandler-class.html#__metaclass__
 googleads.adwords._AdWordsHeaderHandler._SOAP_HEADER_CLASS	googleads.adwords._AdWordsHeaderHandler-class.html#_SOAP_HEADER_CLASS
 googleads.adwords._AdWordsHeaderHandler.GetHTTPHeaders	googleads.adwords._AdWordsHeaderHandler-class.html#GetHTTPHeaders
 googleads.adwords._AdWordsHeaderHandler._PRODUCT_SIG	googleads.adwords._AdWordsHeaderHandler-class.html#_PRODUCT_SIG
